@@ -1,59 +1,77 @@
-# Hi, I'm vk-on
+# Hi, I'm Vladislav 👋
 
-Bachelor student at **Saint Petersburg Mining University (SPMI)** studying **Information Systems and Technologies**.
+I am a student studying **Information Systems and Technologies** and currently developing skills in **Data Analytics and Product Analytics**.
 
-I am interested in **Data Analytics and Product Analytics** and enjoy working with data to find insights and support data-driven decisions.
+My interests include:
+
+- Data analysis
+- Product metrics
+- Data-driven decision making
+- E-commerce analytics
 
 Currently learning:
+
 - SQL for data analysis
-- Python for data processing
-- product metrics and A/B testing
+- Python (pandas, data visualization)
+- statistics and A/B testing
 
 ---
 
-## Skills
+# Skills
 
-### Languages
-- Python
-- SQL (JOIN, GROUP BY, aggregation)
+### Programming
+
+Python  
+SQL
 
 ### Data Analysis
-- pandas
-- numpy
-- exploratory data analysis (EDA)
+
+Pandas  
+NumPy  
+Exploratory Data Analysis (EDA)
 
 ### Visualization
-- Excel
-- Power BI
+
+Matplotlib  
+Excel  
+Power BI (basic)
 
 ---
 
-## Projects
+# Projects
 
-### E-commerce Sales Analysis
-Analysis of online store sales data.
+## E-commerce Sales Analysis
+
+Exploratory analysis of a real-world marketplace dataset (Olist).
+
+Key insights:
+
+- Business growth driven by increasing order volume
+- Late deliveries significantly reduce customer satisfaction
+- Repeat purchase rate is only **3%**, indicating low customer retention
 
 Tools:
-- Python
-- SQL
-- Pandas
-- Data visualization
 
-Status: **coming soon**
+Python  
+Pandas  
+Matplotlib  
 
----
+Repository:
 
-## Education
-
-Saint Petersburg Mining Institute (SPMI)  
-Information Systems and Technologies  
-Bachelor’s degree (expected 2026)
-
-Planning to pursue a Master’s degree at ITMO University
+https://github.com/vk-on/ecommerce-sales-analysis
 
 ---
 
-## Contact
+# Education
+
+Saint Petersburg Mining University  
+Information Systems and Technologies
+
+Planning to pursue a **Master’s degree at ITMO University**.
+
+---
+
+# Contact
 
 Telegram: @quevyy  
 Email: vladkon0ff@yandex.ru
