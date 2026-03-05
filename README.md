@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm vk-on
 
-<!--
-**vk-on/vk-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor student at **Saint Petersburg Mining University (SPMI)** studying **Information Systems and Technologies**.
 
-Here are some ideas to get you started:
+I am interested in **Data Analytics and Product Analytics** and enjoy working with data to find insights and support data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- SQL for data analysis
+- Python for data processing
+- product metrics and A/B testing
+
+---
+
+## Skills
+
+### Languages
+- Python
+- SQL (JOIN, GROUP BY, aggregation)
+
+### Data Analysis
+- pandas
+- numpy
+- exploratory data analysis (EDA)
+
+### Visualization
+- Excel
+- Power BI
+
+---
+
+## Projects
+
+### E-commerce Sales Analysis
+Analysis of online store sales data.
+
+Tools:
+- Python
+- SQL
+- Pandas
+- Data visualization
+
+Status: **coming soon**
+
+---
+
+## Education
+
+Saint Petersburg Mining Institute (SPMI)  
+Information Systems and Technologies  
+Bachelor’s degree (expected 2026)
+
+Planning to pursue a Master’s degree at ITMO University
+
+---
+
+## Contact
+
+Telegram: @quevyy  
+Email: vladkon0ff@yandex.ru
